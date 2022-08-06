@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("TAG", "onCreate:用户一， 创建分支1")
+        Log.i("TAG", "onCreate:用户一， 修改内容2")
+
     }
 }
