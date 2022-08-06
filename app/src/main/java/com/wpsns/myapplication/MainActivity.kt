@@ -12,5 +12,9 @@ class MainActivity : AppCompatActivity() {
         Log.i("TAG", "onCreate:用户一， 创建分支1")
         Log.i("TAG", "onCreate:用户一， 修改内容2")
 
+
+        Log.e("TAG", "onCreate: 用户二，创建分支2", )
+        Log.e("TAG", "onCreate: 用户二，修改内容2", )
+
     }
 }
